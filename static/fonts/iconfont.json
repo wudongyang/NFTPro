@@ -1,0 +1,261 @@
+{
+  "id": "3521032",
+  "name": "专家抽取",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "31069051",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "31069052",
+      "name": "验证码",
+      "font_class": "yanzhengma",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "30786395",
+      "name": "对接",
+      "font_class": "duijie",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "21053833",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "21053617",
+      "name": "日志服务",
+      "font_class": "rizhifuwu",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "30682758",
+      "name": "抽取结果",
+      "font_class": "chouqujieguo",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "30669392",
+      "name": "重置",
+      "font_class": "zhongzhi",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "30669393",
+      "name": "编辑",
+      "font_class": "bianji",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "30603355",
+      "name": "操作记录",
+      "font_class": "caozuojilu",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "30603356",
+      "name": "查看",
+      "font_class": "chakan",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "30603358",
+      "name": "抽取设置",
+      "font_class": "chouqushezhi",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "30603359",
+      "name": "导入",
+      "font_class": "daoru",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "30603360",
+      "name": "icon-kfckfc",
+      "font_class": "duanxinjilu",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "30603361",
+      "name": "抽取专家",
+      "font_class": "chouquzhuanjia",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "30603362",
+      "name": "短信模板管理",
+      "font_class": "duanxinmobanguanli",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "30603363",
+      "name": "放回待选",
+      "font_class": "fanghuidaixuan",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "30603364",
+      "name": "短信通知",
+      "font_class": "duanxintongzhi",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "30603365",
+      "name": "加入已选",
+      "font_class": "jiaruyixuan",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "30603366",
+      "name": "拉取",
+      "font_class": "laqu",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "30603367",
+      "name": "放弃",
+      "font_class": "fangqi",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "30603368",
+      "name": "确认",
+      "font_class": "queren",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "30603369",
+      "name": "分配项目",
+      "font_class": "fenpeixiangmu",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "30603370",
+      "name": "进入分组",
+      "font_class": "jinrufenzu",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "30603371",
+      "name": "检查回避",
+      "font_class": "jianchahuibi",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "30603372",
+      "name": "任务列表",
+      "font_class": "renwuliebiao",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "30603373",
+      "name": "释放专家资源",
+      "font_class": "shifangzhuanjiaziyuan",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "30603374",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "30603375",
+      "name": "添加专家条件",
+      "font_class": "tianjiazhuanjiatiaojian",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "30603376",
+      "name": "数据回灌",
+      "font_class": "shujuhuiguan",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "30603377",
+      "name": "替换",
+      "font_class": "tihuan",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "30603378",
+      "name": "随机终选",
+      "font_class": "suijizhongxuan",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "30603379",
+      "name": "新增随机专家",
+      "font_class": "xinzengsuijizhuanjia",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "30603381",
+      "name": "专家状态-提示",
+      "font_class": "zhuanjiazhuangtai-tishi",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "30603382",
+      "name": "专家状态-警",
+      "font_class": "zhuanjiazhuangtai-jing",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "30603383",
+      "name": "专家状态-弃",
+      "font_class": "zhuanjiazhuangtai-qi",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "30603384",
+      "name": "新增特邀专家",
+      "font_class": "xinzengteyaozhuanjia",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta name="format-detection" content="telephone=no" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
+  <title>NFTPro 专业的 NFT 交易平台</title>
+
+  <script>
+    // 浏览器判断
+    var userAgent = navigator.userAgent; //取得浏览器的userAgent字符串
+    var isIE = userAgent.indexOf("compatible") > -1 && userAgent.indexOf("MSIE") > -1; //判断是否IE<11浏览器  
+    var isEdge = userAgent.indexOf("Edg") > -1 && !isIE; //判断是否IE的Edge浏览器  
+    var isIE11 = userAgent.indexOf('Trident') > -1 && userAgent.indexOf("rv:11.0") > -1;
+    var isWeixin = userAgent.toLowerCase().indexOf('micromessenger') !== -1
+    if (isIE || isIE11 || isWeixin) {
+      var str = "当前浏览器不支持:(";
+      var str2 = "请使用<a href='https://www.google.cn/chrome/' target='_blank' style='color:blue;'>谷歌</a>,"
+        + "<a href='http://www.firefox.com.cn/' target='_blank' style='color:blue;'>火狐</a>,"
+        + "360极速模式等Chrome内核的浏览器访问本系统";
+      document.writeln("<div style='text-align:center;background:#fff;height:100%;border:0;position:fixed;top:0;left:0;width:100%;z-index:1234'>" +
+        "<h2 style='padding-top:200px;margin:0'><strong>" + str + "<br/></strong></h2><h2>" +
+        str2 + "</h2><h2 style='margin:0'><strong>如果你使用的是双核浏览器,请切换到极速模式访问<br/></strong></h2></div>");
+      document.execCommand("Stop");
+    }
+  </script>
+</head>
+
+<body id="body">
+  <div id="app"></div>
+</body>
+
+</html>
